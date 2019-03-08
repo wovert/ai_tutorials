@@ -41,3 +41,21 @@
 
 [anaconda下载](https://www.anaconda.com/distribution/)
 
+### 安装库
+
+anaconda安装Numpy包
+
+```sh
+显示安装的包
+$ conda list
+$ conda install numpy
+
+$ anaconda search -t conda tensorflow
+
+安装库
+$ anaconda show dhirschfeld/tensorflow
+```
+
+
+
+```
