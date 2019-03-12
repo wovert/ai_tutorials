@@ -56,6 +56,8 @@ $ anaconda search -t conda tensorflow
 $ anaconda show dhirschfeld/tensorflow
 ```
 
+## Numpy 科学计算库
 
+numpy.array([列表数据结构必须一样])
 
-```
+优先级：string > float > int
