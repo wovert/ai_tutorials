@@ -58,6 +58,8 @@ $ anaconda show dhirschfeld/tensorflow
 
 ## Numpy 科学计算库
 
-numpy.array([列表数据结构必须一样])
+- numpy.array([列表数据结构必须一样]) 结果列表数据类型一样
+- matrix.shape 返回(4,)或 (3,2)
 
 优先级：string > float > int
+
